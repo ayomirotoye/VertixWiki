@@ -1,4 +1,4 @@
-package io.vertx.starter;
+package com.solastics.ayomide;
 
 import io.vertx.core.AbstractVerticle;
 
